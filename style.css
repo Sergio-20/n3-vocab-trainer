@@ -1,0 +1,18 @@
+#definition, #word {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.prompt h2 {
+  display: inline-block;
+  margin: 1rem 0.5rem;
+}
+
+.reply, .submit {
+  display: block;
+  margin: 0 auto;
+}
+
+.submit {
+  margin: 1rem 0;
+}

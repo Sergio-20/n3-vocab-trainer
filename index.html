@@ -1,0 +1,29 @@
+<!DOCYPE html>
+<html>
+
+  <head>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <title>N3 Vocabulary Trainer</title>
+
+  </head>
+
+  <body class="text-center" onload="assignVocab();">
+
+    <span class="prompt"> <h2>Word </h2> <h2 id="word"> A </h2> <h2> means: </h2> <h2 id="definition"> B </h2> </span>
+
+    <div class="container text-center">
+      <input class="reply" type="text" placeholder="Enter meaning here..." />
+      <button class="btn btn-primary submit" onclick="assignVocab();">Submit</button>
+    </div>
+
+    <script src="index.js"></script>
+
+  </body>
+
+</html>
