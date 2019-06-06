@@ -8,7 +8,9 @@ let DB_Words =
   "ihan", "ima", "imani", "irai", "iraira", "iryou", "iwau", "iwaba", "iwayuru", "insatsu", "inshou", "intai",
   "inyou", "uo", "ugai", "ukagau", "utagau", "uchuu", "utsu", "utsusu", "uttaeru", "unaru", "ubou", "ume", "un", "e",
   "eien", "eikyuu", "eikyou", "eigyou", "eisei", "eiyou", "esa", "eru", "uru", "enki", "engi", "enjou", "enzetsu",
-  "ensou", "enryou", "oi", "oitsuku"
+  "ensou", "enryou", "oi", "oitsuku", "ouji", "oujiru", "oudan", "ooini", "oou", "ooya", "oka", "oki", "oku", "okoru",
+  "osanai", "osameru", "oshaberi", "osen", "otagai", "otoru", "onaka", "obi", "oboreru", "omoni", "oyosu", "oyobosu",
+  "oru", "orosu", "on", "ondan", "ka", "gai", "kaiga", ""
 ];
 
 let DB_Def =
@@ -24,7 +26,10 @@ let DB_Def =
   "living fish", "gargle", "to ask", "to doubt", "universe", "to attack", "to remove", "to bring to someone's attention", "to groan", "to snatch away",
   "plum", "fortune;luck", "handle;grip", "eternity", "eternity", "influence;effect", "business", "satellite", "nutrition", "feed;bait", "to get",
   "to get", "postponement", "acting", "assistance", "speech;address", "musical performance", "restraint", "old age", "to overtake/catch up with",
-  
+  "prince", "to respond", "crossing", "greatly", "to conceal", "rich family", "hill", "open sea", "interior", "to occur", "childish",
+  "to dedicate/supply", "idle talk", "pollution", "each other", "to become inferior to", "stomach", "band/sash", "to drown", "primarily",
+  "approximately", "to extert", "to be for animate objects", "to get lower", "favor", "warmth", "acceptable", "injury;damage;harm", "a painting"
+  ""
 ];
 
 function assignVocabClick()
