@@ -28,7 +28,7 @@ let DB_Def =
   "to get", "postponement", "acting", "assistance", "speech;address", "musical performance", "restraint", "old age", "to overtake/catch up with",
   "prince", "to respond", "crossing", "greatly", "to conceal", "rich family", "hill", "open sea", "interior", "to occur", "childish",
   "to dedicate/supply", "idle talk", "pollution", "each other", "to become inferior to", "stomach", "band/sash", "to drown", "primarily",
-  "approximately", "to extert", "to be for animate objects", "to get lower", "favor", "warmth", "acceptable", "injury;damage;harm", "a painting"
+  "approximately", "to extert", "to be for animate objects", "to get lower", "favor", "warmth", "acceptable", "injury;damage;harm", "a painting",
   ""
 ];
 
