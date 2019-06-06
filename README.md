@@ -9,9 +9,10 @@ ___
 
 https://sergio-20.github.io/n3-vocab-trainer/
 
-__
+___
 
 ## Resources Used:
 
 https://jisho.org/
+
 http://www.tanos.co.uk/jlpt/jlpt3/vocab/VocabList.N3.pdf
