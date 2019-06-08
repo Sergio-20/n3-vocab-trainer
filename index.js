@@ -17,7 +17,14 @@ let DB_Words =
   "kanemochi", "kabu", "kaburu", "gaman", "kaminari", "kamoku", "gara", "karu", "kawaisou", "kan", "kankaku",
   "kankyaku", "kankyou", "kangei", "kankou", "kansatsu", "kanja", "kanjou", "kanshin", "kansuru", "kansei",
   "kanzen", "kandou", "kanryou", "kanren", "giin", "kikai", "gikai", "kikan", "kigyou", "kiku",
-  "kigen", "kikou", "kishi", "kiji", "gishi", "kisha", "kitai", "kitaku", "kichou", "gichou"
+  "kigen", "kikou", "kishi", "kiji", "gishi", "kisha", "kitai", "kitaku", "kichou", "gichou", "kichinto",
+  "kitsui", "kiniiru", "kinen", "kinou", "kinodoku", "kifu", "kihon", "kimari", "kimi", "kimyou",
+  "kimu", "gimon", "kyuu", "kyuu", "kyuu", "kyuuka", "kyuukei", "kyuugeki", "kyuushuu", "kyuujo",
+  "kyuusoku", "kyuuryou", "kiyou", "kyougi", "gyougi", "kyoukyuu", "kyouju", "kyouchou", "kyoutsuu",
+  "kyoudou", "kyoufu", "kyouryoku", "kyoka", "kyodai", "kiri", "kiroku", "giron", "sanen", "kingaku",
+  "kinko", "kinshi", "kinsen", "kinzoku", "kindai", "kinchou", "kinniku", "ku", "kusai", "kusaru", "kuse",
+  "kuda", "kudasaru", "kutsuu", "gussuri", "kubetsu", "kumi", "kumiai", "kumu", "kumori", "kurai", "kurikaesu",
+  "kuruu", "kure"
 ];
 
 let DB_Def =
@@ -44,7 +51,14 @@ let DB_Def =
   "pitiable", "can/tin;perception", "sensation", "audience", "environment", "welcome;reception", "sightseeing", "observation",
   "a patient", "calculation", "Well done!", "to be related", "completion", "completeness", "deep emotion", "completion;conclusion",
   "revelance", "member of the Diet", "machine", "Diet;congress", "term;organ", "corporation", "to be effective", "humor;temper",
-  "climate", "coast/shore", "birthplace;article", "engineer", "reporter", "expectation", "returning home", "precious;valuable", "chairman"
+  "climate", "coast/shore", "birthplace;article", "engineer", "reporter", "expectation", "returning home", "precious;valuable", "chairman",
+  "precisely", "tight;close", "to be pleased with", "commemoration", "function", "pitiful", "donation", "foundation;basis",
+  "rule;regulation", "-like", "strange", "obligation", "doubt", "ex-", "class;grade;rank", "globe", "holiday", "rest", "sudden",
+  "absorption", "aid;rescue", "rapid", "salary;wages", "skillful;handy", "match;contest", "manners", "supply", "professor",
+  "emphasis", "commonness", "cooperation", "dread;dismay", "cooperation", "permission", "enormous", "fog;mist", "document",
+  "argument", "No smoking!", "amount of money", "safe;vault", "prohibition;ban", "money", "metal", "present day", "tension", "muscle",
+  "sentence", "smelly", "to rot", "a bad habit", "pipe", "to give", "pain", "fast asleep", "distinction", "group", "association",
+  "to put together", "cloudiness", "grade;rank", "to repeat", "to go insane", "sunset"
 ];
 
 function assignVocabClick()
